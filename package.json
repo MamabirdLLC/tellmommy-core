@@ -1,0 +1,26 @@
+{
+  "name": "tellmommy-core",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.1.2"
+  },
+  "devDependencies": {
+    "mocha": "^4.1.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "tellmommy-core"
+  },
+  "author": "Mama Bird, LLC",
+  "license": "ISC",
+  "description": ""
+}
