@@ -8,6 +8,7 @@
     "test": "test"
   },
   "dependencies": {
+    "aws-sdk": "^2.181.0",
     "chai": "^4.1.2"
   },
   "devDependencies": {
